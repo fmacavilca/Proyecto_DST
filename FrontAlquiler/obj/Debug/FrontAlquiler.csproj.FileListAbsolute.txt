@@ -1,0 +1,10 @@
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\bin\Debug\FrontAlquiler.exe.config
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\bin\Debug\FrontAlquiler.exe
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\bin\Debug\FrontAlquiler.pdb
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.csprojAssemblyReference.cache
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.Alquiler.resources
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.Properties.Resources.resources
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.csproj.GenerateResource.cache
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.csproj.CoreCompileInputs.cache
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.exe
+C:\Users\fmacavilca\source\repos\ProyectoFinal\FrontAlquiler\obj\Debug\FrontAlquiler.pdb

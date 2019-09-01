@@ -1,0 +1,7 @@
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\bin\RegistrarGastos.dll.config
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\bin\RegistrarGastos.dll
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\bin\RegistrarGastos.pdb
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\obj\Debug\RegistrarGastos.csprojAssemblyReference.cache
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\obj\Debug\RegistrarGastos.csproj.CoreCompileInputs.cache
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\obj\Debug\RegistrarGastos.dll
+C:\Users\fmacavilca\source\repos\ProyectoFinal\RegistrarGastos\obj\Debug\RegistrarGastos.pdb
